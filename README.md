@@ -1,2 +1,2 @@
-# Awesome Portfolio Template
-Template for Portfolio Website
+# Porfolio
+Credits: Bamby
