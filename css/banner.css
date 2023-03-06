@@ -23,6 +23,7 @@ section.banner .developer-bio {
 
 section.banner .developer-bio p {
     margin: 15px auto;
+    position: relative;
     font-size: 1.8rem;
     font-weight: 500;
     color: var(--lightgrey);
