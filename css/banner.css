@@ -160,3 +160,8 @@ section.banner .developer-img img {
         max-width: 10rem;
     }
 }
+
+@video (max-width: 1200px) {
+    section.banner .developer-bio {
+        margin: 3rem 0;
+    }
