@@ -1,10 +1,4 @@
-/* Main Font in (style.css) */
-/* If required new font add here! */
 
-/* All Custom Colors in (style.css) || [:root] || */
-/* Add / Change if required! */
-
-/* Banner Section Styles Start */
 
 section.banner {
     position: relative;
@@ -93,7 +87,7 @@ section.banner .developer-img img {
 }
 
 @media (max-width: 1200px) {
-    section.banner .developer-bio {
+    section.banner .developer-bio{
         margin: 3rem 0;
     }
 
@@ -131,7 +125,7 @@ section.banner .developer-img img {
 
 @media (max-width: 940px) {
     section.banner .developer-img {
-        width: 100%;
+        width: 50vh;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -161,7 +155,3 @@ section.banner .developer-img img {
     }
 }
 
-@media (max-width: 1200px) {
-    section.banner .developer-bio {
-        margin: 3rem 0;
-    }
